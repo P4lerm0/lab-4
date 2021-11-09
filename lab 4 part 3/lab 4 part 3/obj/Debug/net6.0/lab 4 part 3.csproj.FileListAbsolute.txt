@@ -1,0 +1,5 @@
+C:\Users\Dimap\source\repos\lab 4 part 3\lab 4 part 3\obj\Debug\net6.0\lab 4 part 3.csproj.AssemblyReference.cache
+C:\Users\Dimap\source\repos\lab 4 part 3\lab 4 part 3\obj\Debug\net6.0\lab 4 part 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimap\source\repos\lab 4 part 3\lab 4 part 3\obj\Debug\net6.0\lab 4 part 3.AssemblyInfoInputs.cache
+C:\Users\Dimap\source\repos\lab 4 part 3\lab 4 part 3\obj\Debug\net6.0\lab 4 part 3.AssemblyInfo.cs
+C:\Users\Dimap\source\repos\lab 4 part 3\lab 4 part 3\obj\Debug\net6.0\lab 4 part 3.csproj.CoreCompileInputs.cache
